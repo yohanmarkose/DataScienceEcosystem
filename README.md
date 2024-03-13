@@ -1,2 +1,3 @@
-# DataScienceEcosystem
-Final Assignment as part of a coursera data science course
+# DataScience
+Final Assignments as part of the coursera data science course
+added the final assignemnt from Python for AI and Data Science course
